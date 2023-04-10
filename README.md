@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
 
-<div style="display: flex;">
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yassine-dehhani/">
@@ -12,9 +11,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=yaxsomo&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=yaxsomo&style=flat-square&color=blue" alt="" align="center"/>
 
-</div>
+
 ### Hi there 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yaxsomo&theme=black-ice&border_radius=8)](https://git.io/streak-stats)
