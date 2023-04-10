@@ -23,7 +23,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
+### :man_technologist: About Me :
+I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+
+- :seedling: Improving my skills in Embedded Systems, Aerospace and Data processing.
+
+- :zap: In my free time, I play piano and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-yassine-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/yassine-dehhani/))
 
 
 
