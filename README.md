@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
 
-<div display="flex">
+<div style="display: flex;">
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yassine-dehhani/">
