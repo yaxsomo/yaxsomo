@@ -44,6 +44,9 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 
 ### :fire: My Stats :
 
+<!--
+http://github-readme-streak-stats.herokuapp.com/demo/
+-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yaxsomo&theme=black-ice&border_radius=8)](https://git.io/streak-stats)
 
