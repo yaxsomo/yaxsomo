@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=yaxsomo&style=flat-square&color=blue" alt=""/>
+
 ### Hi there 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yaxsomo&theme=black-ice&border_radius=8)](https://git.io/streak-stats)
