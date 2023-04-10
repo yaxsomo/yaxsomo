@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
 
+<div display="flex">
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yassine-dehhani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +14,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=yaxsomo&style=flat-square&color=blue" alt=""/>
 
+</div>
 ### Hi there 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yaxsomo&theme=black-ice&border_radius=8)](https://git.io/streak-stats)
