@@ -13,8 +13,10 @@
 </div>
 
 
-
-### Hi there 👋
+<h1>
+  Hi there! I'm Yassine
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yaxsomo&theme=black-ice&border_radius=8)](https://git.io/streak-stats)
 
