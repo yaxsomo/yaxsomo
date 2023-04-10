@@ -9,11 +9,11 @@
   <a href="https://www.linkedin.com/in/yassine-dehhani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=yaxsomo&style=flat-square&color=blue" alt="" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=yaxsomo&style=flat-square&color=blue" alt=""/>
 </div>
 
 
-<h1>
+<h1 align="center">
   Hi there! I'm Yassine
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
