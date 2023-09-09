@@ -30,7 +30,7 @@ I am a Software Engineering Student <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Improving my skills in Embedded Systems, Aerospace and Data processing.
 
-- :zap: In my free time, I play piano and read tech articles.
+- :zap: In my free time, I build rockets! 🚀
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-yassine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-dehhani/)
 
