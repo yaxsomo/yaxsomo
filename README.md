@@ -52,7 +52,7 @@
   <code><img title="MongoDB" height="50" src="images/mongodb.svg"></code>
   <code><img title="Anaconda" height="50" src="images/anaconda.svg"></code>
   <code><img title="Azure" height="50" src="images/azure.svg"></code>
-  <code><img title="VS Code" height="50" src="images/vscode.png"></code>
+  <code><img title="VS Code" height="50" src="images/vscode.svg"></code>
   <code><img title="XCode" height="50" src="images/xcode.svg"></code>
   <code><img title="Figma" height="50" src="images/figma.svg"></code>
   <code><img title="Raspberry Pi" height="50" src="images/raspberrypi.svg"></code>
