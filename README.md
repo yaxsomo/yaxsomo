@@ -31,34 +31,34 @@
 <p align="center">
   <code><img title="C" height="50" src="images/c.svg"></code>
   <code><img title="C++" height="50" src="images/cpp.svg"></code>
-  <code><img title="PHP" height="50" src="images/cmake.svg"></code>
-  <code><img title="PHP" height="50" src="images/qt.svg"></code>
+  <code><img title="CMake" height="50" src="images/cmake.svg"></code>
+  <code><img title="QT" height="50" src="images/qt.svg"></code>
   <code><img title="C#" height="50" src="images/csharp.svg"></code>
   <code><img title="Python" height="50" src="images/python.svg"></code>
-  <code><img title="PHP" height="50" src="images/swift.svg"></code>
-  <code><img title="PHP" height="50" src="images/bash.svg"></code>
-  <code><img title="PHP" height="50" src="images/processing.svg"></code>
+  <code><img title="Swift" height="50" src="images/swift.svg"></code>
+  <code><img title="Bash" height="50" src="images/bash.svg"></code>
+  <code><img title="Processing" height="50" src="images/processing.svg"></code>
   <code><img title="Java" height="50" src="images/java.svg"></code>
-  <code><img title="PHP" height="50" src="images/go.svg"></code>
-  <code><img title="PHP" height="50" src="images/docker.svg"></code>
-  <code><img title="PHP" height="50" src="images/opencv.svg"></code>
+  <code><img title="GO" height="50" src="images/go.svg"></code>
+  <code><img title="Docker" height="50" src="images/docker.svg"></code>
+  <code><img title="OprnCV" height="50" src="images/opencv.svg"></code>
   <code><img title="Javascript" height="50" src="images/javascript.svg"></code>
-  <code><img title="PHP" height="50" src="images/nodejs.svg"></code>
+  <code><img title="NodeJS" height="50" src="images/nodejs.svg"></code>
   <code><img title="HTML5" height="50" src="images/html5.svg"></code>
   <code><img title="CSS" height="50" src="images/css3.svg"></code>
   <code><img title="PHP" height="50" src="images/php.svg"></code>
   <code><img title="MySQL" height="50" src="images/mysql.svg"></code>
-  <code><img title="PHP" height="50" src="images/sqlite.svg"></code>
-  <code><img title="PHP" height="50" src="images/mongodb.svg"></code>
-  <code><img title="PHP" height="50" src="images/anaconda.svg"></code>
-  <code><img title="PHP" height="50" src="images/azure.svg"></code>
-  <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
-  <code><img title="Visual Studio Code" height="50" src="images/xcode.svg"></code>
-  <code><img title="PHP" height="50" src="images/figma.svg"></code>
-  <code><img title="PHP" height="50" src="images/raspberrypi.svg"></code>
-  <code><img title="PHP" height="50" src="images/linux.svg"></code>
-  <code><img title="PHP" height="50" src="images/ubuntu.svg"></code>
-  <code><img title="PHP" height="50" src="images/windows8.svg"></code>
+  <code><img title="SQLite" height="50" src="images/sqlite.svg"></code>
+  <code><img title="MongoDB" height="50" src="images/mongodb.svg"></code>
+  <code><img title="Anaconda" height="50" src="images/anaconda.svg"></code>
+  <code><img title="Azure" height="50" src="images/azure.svg"></code>
+  <code><img title="VS Code" height="50" src="images/vscode.png"></code>
+  <code><img title="XCode" height="50" src="images/xcode.svg"></code>
+  <code><img title="Figma" height="50" src="images/figma.svg"></code>
+  <code><img title="Raspberry Pi" height="50" src="images/raspberrypi.svg"></code>
+  <code><img title="Linux" height="50" src="images/linux.svg"></code>
+  <code><img title="Ubuntu" height="50" src="images/ubuntu.svg"></code>
+  <code><img title="Windows" height="50" src="images/windows8.svg"></code>
 
 
 </p>
