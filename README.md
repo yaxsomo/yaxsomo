@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yaxsomo.yaxsomo">
 
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Yassine+Dehhani;Nice+to+meet+you!)](https://git.io/typing-svg)
-</div>
+
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/yassine-dehhani/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
